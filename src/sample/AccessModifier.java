@@ -13,7 +13,11 @@ public class AccessModifier {
      }
      protected void c(){
          
+
          System.out.println("Protected method call- git1");
+
+         System.out.println("Protected method call-2");
+
      }
      void d(){
         
